@@ -1,0 +1,23 @@
+{
+  "name": "nodewithreact",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node index.js"
+  },
+  "engines": {
+    "node" : "8.1.1",
+    "npm" : "5.0.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sundar-Rajakani/nodewithreact.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sundar-Rajakani/nodewithreact/issues"
+  },
+  "homepage": "https://github.com/Sundar-Rajakani/nodewithreact#readme"
+}
